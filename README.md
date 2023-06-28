@@ -4,7 +4,7 @@ criando um repositório pc aula 1
 # RAIANE GALDINO
 
 # SOBRE MIM 
-- Olá, meu apelido é Rai
+- Olá, meu apelido é Raiizinha
 - Gosto de estudar
 - Gosto de cuidar de mim
 - Quero aprender mais sobre computadores
